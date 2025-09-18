@@ -18,3 +18,4 @@ Inputs 0-3 should be inverted and measurable on corresponding outputs.
 ## External hardware
 
 7-Segment-Display is connected in demo template.
+
